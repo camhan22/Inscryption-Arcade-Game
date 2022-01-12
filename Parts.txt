@@ -1,0 +1,2 @@
+Screen: E2271CS091
+Attiny Controller: ATTINY84A-MMHR (Used to communicate with board and store information about the card)
