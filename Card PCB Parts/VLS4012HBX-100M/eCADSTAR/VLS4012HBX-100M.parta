@@ -1,0 +1,67 @@
+(Japanese_coding: sjis)
+(function "ECS_1494238"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-22-16:34:43)
+    (utime 2021-10-05-13:55:14)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "VLS4012HBX-100M")
+)
+
+
+(pinAssign "ECS_1494238"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-22-16:34:43)
+    (utime 2021-10-05-13:55:14)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1494238")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "VLS4012HBX-100M")
+)
+
+
+(part "VLS4012HBX-100M"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-22-16:34:43)
+    (utime 2021-10-05-13:55:14)
+    (packageRef "VLS4012HBX-100M")
+    (pinAssignRef "ECS_1494238")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Inductors for Power Circuits, Wound Metal")
+    (property "Manufacturer_Name" "TDK")
+    (property "Manufacturer_Part_Number" "VLS4012HBX-100M")
+    (property "Mouser_Part_Number" "810-VLS4012HBX-100M")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/VLS4012HBX-100M?qs=qSfuJ%252Bfl%2Fd4GFsgtetzkUw%3D%3D")
+    (property "Arrow_Part_Number" "VLS4012HBX-100M")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/vls4012hbx-100m/tdk")
+    (property "Datasheet_Link" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls4012hbx_en.pdf")
+)
+
+

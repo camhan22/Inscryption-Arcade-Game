@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VLS4012HBX-100M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-22-16:34:42)
+    (mountForm default
+        (footprintRef "VLS4012")
+        (spec "System")
+    )
+)

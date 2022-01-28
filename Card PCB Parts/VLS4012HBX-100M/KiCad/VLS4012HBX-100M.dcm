@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VLS4012HBX-100M
+D Inductors for Power Circuits, Wound Metal
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls4012hbx_en.pdf
+$ENDCMP
+#
+#End Doc Library

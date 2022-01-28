@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VLS4012HBX_100M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "TDK", "VLS4012HBX-100M" (!) = "", "VLS4012", "Other", "810-VLS4012HBX-100M", "https://www.mouser.co.uk/ProductDetail/TDK/VLS4012HBX-100M?qs=qSfuJ%252Bfl%2Fd4GFsgtetzkUw%3D%3D", "VLS4012HBX-100M", "https://www.arrow.com/en/products/vls4012hbx-100m/tdk", "Inductors for Power Circuits, Wound Metal", "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls4012hbx_en.pdf"
+END_PART
+
+END.

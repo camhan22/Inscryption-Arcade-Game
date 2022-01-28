@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "FH34SRJ-24S-0.5SH_99_")(type "Legacy")(uri "C:/Users/chanson/Desktop/Inscryption-Arcade-Game/Card PCB Parts/FH34SRJ-24S-0.5SH_99_.lib")(options "")(descr ""))
+  (lib (name "FH34SRJ-24S-0.5SH_99_")(type "Legacy")(uri "C:/Users/hanso/Desktop/Inscryption-Arcade-Game/Card PCB Parts/FH34SRJ-24S-0.5SH_99_.lib")(options " pwr_sym_only")(descr ""))
+  (lib (name "Created_Parts")(type "KiCad")(uri "C:/Users/hanso/Desktop/Inscryption-Arcade-Game/Card PCB Parts/Created_Parts.kicad_sym")(options "")(descr ""))
 )

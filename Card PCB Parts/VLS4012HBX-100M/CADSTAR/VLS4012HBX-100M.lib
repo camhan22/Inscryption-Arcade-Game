@@ -1,0 +1,18 @@
+.VLS4012HBX-100M :1 ;Inductors for Power Circuits, Wound Metal
+VLS4012
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN VLS4012HBX-100M
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (VLS4012HBX-100M)
+~!Mouser Part Number (810-VLS4012HBX-100M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/VLS4012HBX-100M?qs=qSfuJ%252Bfl%2Fd4GFsgtetzkUw%3D%3D)
+~!Arrow Part Number (VLS4012HBX-100M)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/vls4012hbx-100m/tdk)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls4012hbx_en.pdf)
+~!Height (-)
+~!3D_Model (VLS4012HBX-100M)
+VLS4012HBX-100M
+1.1!U 2.1!U 
