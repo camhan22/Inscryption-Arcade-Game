@@ -448,8 +448,8 @@ void displayForms(bool flag = true)
     char c;
     int row = 0;
     int col = 0;
-    for(int i = 0;i < 5808; i++){
-      if(i%22  == 0){ //when 16 bytes are read, a full line will have been displayed
+    for(int i = 0;i < 5808; i++){ //5808 for full image
+      if(i%22  == 0){ //when 16 bytes are read, a full line will have been displayed (22 for full)
         row++;
         col = 0; //reset the column to zero
       }
